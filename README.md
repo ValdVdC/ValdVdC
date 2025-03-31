@@ -7,7 +7,7 @@
 
 - 📫 E-mail de contato **osvaldodecarvalho2005@outlook.com**
 
-- 💻 Projeto pessoal em desenvolvimento: [https://front-end-game-hub.vercel.app/]
+- 💻 Projeto pessoal em desenvolvimento: [Game-HUB](https://front-end-game-hub.vercel.app/)
 
 <h3 align="left">Contato:</h3>
 <p align="left">
